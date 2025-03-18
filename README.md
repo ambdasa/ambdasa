@@ -1,4 +1,4 @@
-![Header](header-image-url)
+![Header](https://github.com/ambdasa/ambdasa/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 
 # Hi 👋, I'm AMBICA DASARI
 
