@@ -30,8 +30,6 @@ Welcome to my profile! 🌟 I’m driven by building scalable data solutions usi
 - **Databricks** and **Snowflake** for **data engineering**, building optimized, scalable data pipelines for big data processing.
 - Enhancing cloud infrastructure and performance with **AWS**, **Apache Kafka**, and **real-time data processing**.
 
-![Apache Spark](https://media.giphy.com/media/xT0xezg7uKntwfaNE0/giphy.gif)
-
 ---
 
 ## 🛠️ Skills:
@@ -43,33 +41,9 @@ Welcome to my profile! 🌟 I’m driven by building scalable data solutions usi
 - **Tools**: Git, Docker, Tableau, Power BI
 - **Machine Learning & Analytics**: Pandas, NumPy, PySpark
 
-![Cloud Development](https://media.giphy.com/media/l0MYt5jPR6QX5lYx2/giphy.gif)
-
 ---
 
-## 💡 My Projects:
-- **Real-Time Data Analysis**: Built a real-time stock analysis pipeline using **Apache Kafka** and **AWS MSK**, ensuring zero data loss and high availability.
-- **YouTube Data Pipeline Optimization**: Designed a **serverless ETL pipeline** with **AWS Lambda** and **Step Functions**, reducing processing costs by 60%.
-- **Power BI Dashboards**: Created dashboards to optimize healthcare operations, improving resource allocation and reducing wait times.
-
-![Projects](https://media.giphy.com/media/3oz8xLKlgmsUM2WFCM/giphy.gif)
-
----
-
-## 🎯 Fun and Hobbies:
-- Enjoy playing **Badminton** 🏸 and **Singing** 🎤.
-- Exploring **AI**, **Machine Learning**, and **Data Engineering** in my free time.
-
----
-
-## 🔧 Tech Stack:
-![Tech Stack](https://media.giphy.com/media/xUOxfPsbmfzPa1gU5C/giphy.gif)
-
----
-
-## 💬 Let's Chat:
-I’m always up for discussions about **data engineering**, **big data**, and **cloud technologies**. Don’t hesitate to reach out! You can also check my [LinkedIn](https://www.linkedin.com/in/ambica-dasari-3808bb187/) for updates.
-
----
+## 💬 Let’s Chat:
+Check out my [repositories](https://github.com/ambdasa) for more about my work on data engineering and cloud projects. Feel free to reach out if you want to discuss **data engineering**, **big data**, and **cloud technologies**.
 
 Thank you for visiting my profile. Let’s build something awesome together! 😊
