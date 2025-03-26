@@ -15,7 +15,7 @@ Welcome to my profile! 🌟 I’m driven by building scalable data solutions usi
 - 🤝 Open to **referrals** for **data engineering**, **cloud developer**, and **big data roles**. Feel free to reach out!
 - 💬 Ask me about **data pipelines**, **real-time data processing**, **cloud infrastructure**, and **big data technologies**.
 - 📧 Reach out: [ambicadasari.11@gmail.com](mailto:ambicadasari.11@gmail.com)
-- 📄 Check out my [Resume](link-to-resume) and [Portfolio](link-to-portfolio).
+- 📄 Check out my [Resume](https://github.com/ambdasa/ambdasa/blob/main/AMBICA-DASARI-Resume.pdf) and [Portfolio](https://portfolio-ambicas-projects.vercel.app/).
 - ⚡ Fun fact: I enjoy **Badminton** 🏸 and **Singing** 🎤 in my free time.
 
 ---
