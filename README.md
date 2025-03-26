@@ -28,7 +28,7 @@ Welcome to my profile! 🌟 I’m driven by building scalable data solutions usi
 
 ## 🎯 Current Focus:
 - **Databricks** and **Snowflake** for **data engineering**, building optimized, scalable data pipelines for big data processing.
-- Enhancing cloud infrastructure and performance with **AWS**, **Apache Kafka**, and **real-time data processing**.
+- Currently exploring **Apache Iceberg** for building reliable, high-performance data lakes that support scalable and flexible analytics.
 
 ---
 
