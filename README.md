@@ -1,49 +1,112 @@
-![Header](https://github.com/ambdasa/ambdasa/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
+<!-- Banner -->
+<p align="center">
+  <img src="Ambica Dasari.png" alt="Ambica Dasari — Banner">
+</p>
 
-# Hi 👋, I'm **AMBICA DASARI**
+<h1 align="center">
+  Hi, I'm <em>Ambica Dasari</em>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" />
+</h1>
 
-**Passionate Data Engineer | Cloud and Big Data Enthusiast | Lifelong Learner of Data-Driven Technologies**
+<p align="center"><b>Passionate Data Engineer • Cloud & Big-Data Enthusiast • Lifelong Learner</b></p>
 
-Welcome to my profile! 🌟 I’m driven by building scalable data solutions using cloud technologies and real-time streaming. Let’s connect and collaborate!
-
----
-
-## 🚀 About Me:
-- 🌱 Currently diving into **Databricks** and **Snowflake** to build high-performance data pipelines.
-- 🖥️ **AWS Cloud Developer Intern** at *Indiana University*, focusing on scalable cloud infrastructure and real-time data processing.
-- 📚 Passionate about **cloud technologies**, **big data**, and **data engineering**, continuously learning and growing.
-- 🤝 Open to **referrals** for **data engineering**, **cloud developer**, and **big data roles**. Feel free to reach out!
-- 💬 Ask me about **data pipelines**, **real-time data processing**, **cloud infrastructure**, and **big data technologies**.
-- 📧 Reach out: [ambicadasari.11@gmail.com](mailto:ambicadasari.11@gmail.com)
-- 📄 Check out my [Resume](https://github.com/ambdasa/ambdasa/blob/main/AMBICA-DASARI-Resume.pdf) and [Portfolio](https://portfolio-ambicas-projects.vercel.app/).
-- ⚡ Fun fact: I enjoy **Badminton** 🏸 and **Singing** 🎤 in my free time.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ambdasa&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ambica-dasari-3808bb187/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=portfolio)](https://portfolio-ambicas-projects.vercel.app/)
+### 🚀 About Me
+- 🌱 Currently diving into **Databricks** & **Snowflake** for high-performance pipelines  
+- ☁️ **AWS Cloud Developer** @ *Indiana University* – building scalable, real-time data solutions  
+- 🤝 Open to **referrals** for data-engineering & big-data roles  
+- 💬 Ask me about *data lakes, Kafka/Spark streaming, cost-efficient AWS architectures*  
+- 📫 **ambicadasari.11@gmail.com**  
+- 🏸 *Fun fact* — Badminton & singing keep me sane!
 
 ---
 
-## 🎯 Current Focus:
-- **Databricks** and **Snowflake** for **data engineering**, building optimized, scalable data pipelines for big data processing.
-- Currently exploring **Apache Iceberg** for building reliable, high-performance data lakes that support scalable and flexible analytics.
+### 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/ambica-dasari-3808bb187/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://portfolio-ambicas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:ambicadasari.11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
-## 🛠️ Skills:
-- **Programming Languages**: Python, Java, C++, R, SQL
-- **Cloud Platforms**: AWS (ECS, Lambda, S3, Glue, Redshift), GCP
-- **Big Data Tools**: Apache Kafka, Apache Spark, Databricks, Snowflake
-- **Data Processing & Pipelines**: Airflow, ETL, Real-Time Data Processing
-- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Snowflake
-- **Tools**: Git, Docker, Tableau, Power BI
-- **Machine Learning & Analytics**: Pandas, NumPy, PySpark
+
+### 🧰 Tech Toolbox
+<p align="center">
+
+  <!-- ——— Programming Languages ——— -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"          alt="Python"        height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"    alt="C++"           height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"              alt="Java"          height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                    alt="R"             height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                    alt="C"             height="42" style="margin:0 6px;">
+
+  <!-- ——— Data-Eng / Processing ——— -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka"         height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"   height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg"    alt="Spark"      height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"              alt="Docker"     height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                    alt="Git"        height="42" style="margin:0 6px;">
+
+  <!-- ——— Cloud (AWS icon fixed) ——— -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg"                                     alt="AWS"         height="42" style="margin:0 6px;">
+
+  <!-- ——— Databases ——— -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/snowflake.svg"       alt="Snowflake"   height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"     alt="PostgreSQL" height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"               alt="MySQL"      height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"           alt="MongoDB"    height="42" style="margin:0 6px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazondynamodb.svg"                                alt="DynamoDB"    height="42" style="margin:0 6px;">
+
+  <!-- ——— BI / Viz ——— -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/powerbi.svg"   alt="Power BI"  height="42" style="margin:0 6px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tableau.svg"   alt="Tableau"   height="42" style="margin:0 6px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="42" style="margin:0 6px;">
+
+</p>
+
+
+<details>
+<summary><strong>Hard-Skill Highlights</strong></summary>
+
+- **Data Warehousing & Governance  |  Data Modelling  |  System Design**
+- **Big-Data & Stream Processing** (ETL / real-time pipelines with Kafka & Spark)
+- **Real-time Analytics** on AWS (Kinesis → S3 / Redshift / Lambda / Glue / EMR)
+- **Agile / Scrum** delivery & cross-team collaboration
+</details>
+
+
+### 🎬 After-Hours Vibes
+<p align="center">
+  <!-- Cartoon badminton -->
+  <img src="https://media.giphy.com/media/eivDJb2lXYzPDvqbwT/giphy.gif"
+       alt="Cartoon playing badminton" height="140">&nbsp;&nbsp;
+  <!-- Cartoon coding -->
+  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif"
+       alt="Cartoon late-night coding" height="140">&nbsp;&nbsp;
+  <!-- Cartoon listening to music -->
+  <img src="https://media.giphy.com/media/VDpE8gStGujeyToNXt/giphy.gif"
+       alt="Cartoon listening to music" height="140">
+</p>
+
 
 ---
 
-## 💬 Let’s Chat:
-Check out my [repositories](https://github.com/ambdasa) for more about my work on data engineering and cloud projects. Feel free to reach out if you want to discuss **data engineering**, **big data**, and **cloud technologies**.
+### 📊 GitHub Snapshot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ambdasa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambdasa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
+</p>
 
-Thank you for visiting my profile. Let’s build something awesome together! 😊
+
+### 🗣️ Let’s Talk!
+Have an idea, need a hand on your data journey, or just want to chat tech & tea?  
+<strong>Reach out → <a href="mailto:ambicadasari.11@gmail.com">ambicadasari.11@gmail.com</a></strong>
+
+<p align="center">
+  <em>Thanks for stopping by ✨ – let’s build something awesome together!</em>
+</p>
