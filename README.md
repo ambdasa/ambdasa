@@ -95,14 +95,6 @@
 
 ---
 
-### 📊 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambdasa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambdasa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
-</p>
-
-
 ### 🗣️ Let’s Talk!
 Have an idea, need a hand on your data journey, or just want to chat tech & tea?  
 <strong>Reach out → <a href="mailto:ambicadasari.11@gmail.com">ambicadasari.11@gmail.com</a></strong>
