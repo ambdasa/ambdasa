@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Ambica Dasari.png" alt="Ambica Dasari — Banner">
+  <img src="https://github.com/ambdasa/ambdasa/blob/main/Ambica%20Dasari.png" alt="Ambica Dasari — Banner">
 </p>
 
 <h1 align="center">
